@@ -1,4 +1,4 @@
-## Project-3_Prediction_of_Hepatitis_C
+## Prediction_of_Hepatitis_C
 ### Description
 
 ### Context
